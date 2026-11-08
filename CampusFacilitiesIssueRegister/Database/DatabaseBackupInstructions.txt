@@ -1,0 +1,13 @@
+Database Backup Location
+==========================
+This folder contains the SQL Server LocalDB backup file (.bak) for the Campus Facilities Issue Register application.
+Database: CampusFacilitiesDB
+File: CampusFacilitiesDB.bak
+
+The backup contains the 'FacilitiesIssues' table and all initial records.
+It can be restored in SQL Server Management Studio (SSMS) or Visual Studio SQL Server Object Explorer using:
+
+RESTORE DATABASE [CampusFacilitiesDB] 
+FROM DISK = 'CampusFacilitiesDB.bak' 
+WITH REPLACE;
+

@@ -1,0 +1,11 @@
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.csproj.AssemblyReference.cache
+D:\Student5\CampusFacilitiesIssueRegister\bin\Debug\DatabaseSetup.sql
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.MainForm.resources
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.Properties.Resources.resources
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.csproj.GenerateResource.cache
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.csproj.CoreCompileInputs.cache
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.exe
+D:\Student5\CampusFacilitiesIssueRegister\obj\Debug\CampusFacilitiesIssueRegister.pdb
+D:\Student5\CampusFacilitiesIssueRegister\bin\Debug\CampusFacilitiesIssueRegister.exe.config
+D:\Student5\CampusFacilitiesIssueRegister\bin\Debug\CampusFacilitiesIssueRegister.exe
+D:\Student5\CampusFacilitiesIssueRegister\bin\Debug\CampusFacilitiesIssueRegister.pdb
